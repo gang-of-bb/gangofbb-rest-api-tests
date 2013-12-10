@@ -1,0 +1,20 @@
+{
+  "name": "gangofbrokenbelt-api-tester",
+  "version": "0.0.1",
+  "description": "tool for testing availability of gangofbrokenbelt rest api",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "~0.6.2",
+    "hippie": "~0.1.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-coffee": "~0.7.0",
+    "grunt-shell": "~0.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Benjamin Heintz <heintz.benjamin@gmail.com> (https://github.com/bhtz)",
+  "license": "MIT"
+}
