@@ -6,7 +6,7 @@ Test api availibility application for [gangofbb-rest-api](http://gangofbb.bhtz.f
 Installation
 ------------
 	
-	https://github.com/gang-of-bb/gangofbb-rest-api-tests.git
+	git clone https://github.com/gang-of-bb/gangofbb-rest-api-tests.git
 	npm install
 
 Requirements
